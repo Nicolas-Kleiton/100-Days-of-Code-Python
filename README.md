@@ -119,11 +119,6 @@ See how the course is organized:
 - **Day 99:** Portfolio Project - Analyzing Deaths involving Police in the United States
 - **Day 100:** Portfolio Project - Predicting Earnings using Multivariable Regression
 
-## Technologies Used
-This course focuses on:
-- **Python 3.10+**
-- Libraries: `numpy`, `pandas`, `matplotlib`, etc. (depending on the project)
-
 ## How to Use
 1. Clone the repository:
    ```bash
